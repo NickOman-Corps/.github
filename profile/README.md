@@ -23,19 +23,7 @@
         <img src="https://komarev.com/ghpvc/?username=1nickoman1&style=for-the-badge&color=830A80&label=PROFILE+VIEWS">
     </a>
 </div>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<div align="center">
-    <h3><img src="https://readme-typing-svg.herokuapp.com?color=F71FD9&lines=Wassup+Gamers;Im+a+YouTuber;Im++a+Twitch+Streamer;Im+a+Programmer;Im+a+Film+Maker"></h3>
-</div>
-
-<!-- Body Section with the BAnner made by Float Nick's Artist -->
 <div>
-    <p align="center">
-        <a href="https://floatling.carrd.co/" alt="Nick's Artist">
-            <img src="assets/bitchboy1.png" width="80%" height="70%">
-        </a>
-    </p>
     <h2> 📘 Open source projects : </h2>
     <p align="center">
         <a href="https://github.com/NickOman-Corps/NickOman-Ess"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-Ess" alt="NickoMane-Ess">
@@ -100,7 +88,4 @@
                     </ol>  
                     <!--END_SECTION:activity-->
             </details>
-        <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="1NickOman1's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1nickoman1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-        </p>
 </div>
