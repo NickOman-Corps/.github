@@ -11,7 +11,7 @@
         </a>
     </p>
         <p>
-            <h3> 👨‍💻 Programs and languages the Team will use: </h3>
+            <h3> 👨‍💻 Programs and languages the team will use: </h3>
                 <p>
                     <a><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
                     <a><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
@@ -26,13 +26,13 @@
                     <a><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
                     <a><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge">
                 </p>
-            <h3> 🗄️ Databases and cloud hosting I used (Or going to learn how to use) : </h3>
+            <h3> 🗄️ Databases and cloud hosting the team will use: </h3>
                 <p>
                     <a><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
                     <a><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
                     <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=for-the-badge"></a>
                 </p>
-            <h3> 💻 Software and tools I used (Or going to learn how to use) : </h3>
+            <h3> 💻 Software and tools the team will use: </h3>
             <p>
                 <a href="#"><img alt="Adobe Programs" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white&style=for-the-badge"></a>
                 <p>
