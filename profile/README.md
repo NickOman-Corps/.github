@@ -5,7 +5,7 @@
         </a>
         <a href="https://github.com/NickOman-Corps/NickOman-BlockieForgeMod"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-BlockieFabricMod" alt="NickoMane-BlockieFabricMod ">
         </a>
-        <a href="https://github.com/NickOman-Corps/NickOman-"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-BlockieForgeMod" alt="NickoMane-BlockieForgeMod ">
+        <a href="https://github.com/NickOman-Corps/NickOman-BlockieFabriceMod"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-BlockieForgeMod" alt="NickoMane-BlockieForgeMod ">
         </a>
         <a href="https://github.com/NickOman-Corps/NickOman-Datapack"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=NickOman-Corps&repo=NickOman-Datapack" alt="NickoMane-Datapack ">
         </a>
